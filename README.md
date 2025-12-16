@@ -96,6 +96,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries, please contact Mousa Salah at hello@mousasalah.com.
 
+## Citation
+
+If you use this work in your research, please cite the paper:
+
+**Temperature-Dependent Performance of Prompting Strategies In Extended Reasoning Language Models**  
+Mousa Salah  
+December 2025  
+DOI: [10.13140/RG.2.2.16047.60327](https://doi.org/10.13140/RG.2.2.16047.60327)  
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+
 ---
 **Short Title:** Temperature-Dependent Performance in Extended Reasoning LLMs
 **Keywords:** LLMs, Temperature Sampling, Chain-of-Thought Prompting, Zero Shot Prompting, Extended Reasoning, Prompt Engineering, Mathematical Reasoning.
