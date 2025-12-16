@@ -1,0 +1,23 @@
+# Python development files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+.venv/
+venv/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary experiment files (but keep results)
+experiment/**/*.tmp
+experiment/**/*.log
