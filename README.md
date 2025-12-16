@@ -56,9 +56,12 @@ An automated parsing pipeline followed by a rigorous manual verification process
 | 1.0         | 51.3%     | 59.0%            |
 
 ## Plots
-Visualizations of the key results are available in the `plots/` directory:
-*   `plots/figure1.png`: Line plot showing accuracy vs temperature for the 4 conditions.
-*   `plots/figure2.png`: Bar chart of reasoning multipliers by temperature, with T=1.0 highlighted.
+
+![Accuracy vs Temperature](plots/figure1.png)
+*Line plot showing accuracy vs temperature for the 4 conditions.*
+
+![Reasoning Multipliers](plots/figure2.png)
+*Bar chart of reasoning multipliers by temperature, with T=1.0 highlighted.*
 
 ## Repository Structure
 ```
